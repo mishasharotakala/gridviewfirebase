@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303968293792",
+    "project_id": "gridview-d3ad1",
+    "storage_bucket": "gridview-d3ad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303968293792:android:9dc4af11b926a8c756cac5",
+        "android_client_info": {
+          "package_name": "com.rotakala.gridviewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303968293792-nuaep6gl0grre6h5hma0v75f13a42b4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADbyUArM6bseVCMtWdFtZCOOlCx4pG8MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303968293792-nuaep6gl0grre6h5hma0v75f13a42b4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
